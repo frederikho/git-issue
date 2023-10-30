@@ -1,0 +1,2 @@
+*.ipynb filter=nbstrip_full_test
+*.ipynb filter=nbstrip_full
